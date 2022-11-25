@@ -12,6 +12,5 @@ jobs:
       - name: Update gist
         uses: maxam2017/productive-box@master
         env:
-          GH_TOKEN: 
           GIST_ID: 6daa503272d378298bf90cddfa024c2c
           TIMEZONE: Asia/Seoul
